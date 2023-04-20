@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drag-drop-inputs/static/css/main.9921015f.css",
+    "main.js": "/drag-drop-inputs/static/js/main.82577a17.js",
+    "static/js/787.d866be1a.chunk.js": "/drag-drop-inputs/static/js/787.d866be1a.chunk.js",
+    "static/media/logo.svg": "/drag-drop-inputs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/drag-drop-inputs/index.html",
+    "main.9921015f.css.map": "/drag-drop-inputs/static/css/main.9921015f.css.map",
+    "main.82577a17.js.map": "/drag-drop-inputs/static/js/main.82577a17.js.map",
+    "787.d866be1a.chunk.js.map": "/drag-drop-inputs/static/js/787.d866be1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9921015f.css",
+    "static/js/main.82577a17.js"
+  ]
+}
