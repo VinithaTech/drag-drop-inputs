@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+### Demo
+
+Demo Preview [https://vinithatech.github.io/drag-drop-inputs/](https://vinithatech.github.io/drag-drop-inputs/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
