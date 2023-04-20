@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-image: linear-gradient(
+    102.7deg,
+    #fddaff 8.2%,
+    #dfadfc 19.6%,
+    #adcdfc 36.8%,
+    #adfcf4 73.2%,
+    #caf8d0 90.9%
+  );
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,16 @@
+.leftAlign {
+  text-align: left;
+}
+.objStyle {
+  text-align: left;
+  margin-left: 20px !important;
+}
+.structure {
+  padding: 0 20px;
+}
+.structure p {
+  margin: 3px;
+}
+.elemDiv {
+  margin-bottom: 15px;
+}
